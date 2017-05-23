@@ -1,0 +1,31 @@
+name,fullname,url
+SoilWeb,SoilWeb,http://casoilresource.lawr.ucdavis.edu/gmap/
+SoilWeb GE,SoilWeb Google Earth,http://casoilresource.lawr.ucdavis.edu/soil_web/kml/SoilWeb.kmz
+SEE,Series Extent Explorer,http://casoilresource.lawr.ucdavis.edu/see/
+CA Gridded,CA Soil Properties,http://casoilresource.lawr.ucdavis.edu/ca-soil-properties/
+SAGBI,Soil Ag. Groundwater Banking Index,http://casoilresource.lawr.ucdavis.edu/sagbi/
+WSS,Web Soil Survey,http://websoilsurvey.sc.egov.usda.gov/App/HomePage.htm
+NCSS,National Cooperative Soil Survey,
+SDE,https://casoilresource.lawr.ucdavis.edu/sde/?series=drummer
+SDA,Soil Data Access,http://sdmdataaccess.nrcs.usda.gov/
+SeriesTree,Soil Series Tree,http://soilmap2-1.lawr.ucdavis.edu/seriesTree/index.php?series=amador
+NASIS,National Soil Information System,http://www.nrcs.usda.gov/wps/portal/nrcs/detail/soils/survey/geo/?cid=nrcs142p2_053552
+SSURGO,SSURGO,http://www.nrcs.usda.gov/wps/portal/nrcs/main/soils/survey/geo/
+STATSGO,STATSGO,http://www.nrcs.usda.gov/wps/portal/nrcs/main/soils/survey/geo/
+SCAN,SCAN,http://www.wcc.nrcs.usda.gov/scan/
+SNOTEL,SNOTEL,http://www.wcc.nrcs.usda.gov/snow/
+Soil Climate,Soil Climate,
+Henry,Henry Mount Soil Temperature and Water Database,http://soilmap2-1.lawr.ucdavis.edu/henry/
+Block Diagrams,Block Diagram Archive,http://www.nrcs.usda.gov/wps/portal/nrcs/detail/soils/survey/geo/?cid=nrcs142p2_054317
+iPhone App,SoilWeb iPhone App,http://itunes.apple.com/us/app/soilweb-for-the-iphone/id354911787?mt=8
+Android App,SoilWeb Android App,https://play.google.com/store/apps/details?id=casoilresource.apps.soilweb&hl=en
+NCSS-Tech,
+aqp,aqp,
+soilDB,soilDB,
+sharpshootR,sharpshootR,
+fetchKSSL(),fetchKSSL(),
+fetchNASIS(),fetchNASIS(),
+fetchHenry(),fetchHenry(),
+fetchSDA(),fetchSDA(),
+KSSL,Kellog Soil Survey Laboratory,
+
