@@ -1,6 +1,5 @@
 library(igraph)
 library(plyr)
-library(networkD3)
 library(RColorBrewer)
 library(scales)
 
@@ -47,10 +46,19 @@ png(file='example.png', width=1000, height=1000, type = 'cairo', antialias = 'su
 plot(g)
 dev.off()
 
-## TODO: interactive version
-# https://github.com/timelyportfolio/d3r/issues/3
 
-# save to d3
+# probably better done by hand and re-flowing data into JSON
+library(networkD3)
+
+# convert graph and membership
+nd3 <- igraph_to_networkD3(g, group = g.com.membership)
+
+# rough approximation
+forceNetwork(Links = nd3$links, Nodes = nd3$nodes, Source = 'source', Target = 'target', NodeID = 'name', Group = 'group', opacityNoHover = TRUE)
+
+# another idea
+library(d3r)
 
 
+d3_igraph
 

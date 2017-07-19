@@ -6,3 +6,7 @@ How about a [d3-based](https://d3js.org/), network of [Soil Data Sources](http:/
 
 ![](example.png)
 
+# Ideas
+ * https://github.com/timelyportfolio/d3r
+ 
+ 

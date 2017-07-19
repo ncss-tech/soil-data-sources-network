@@ -23,13 +23,13 @@ SoilWeb,Android App
 NCSS-Tech,aqp
 NCSS-Tech,soilDB
 NCSS-Tech,sharpshootR
-NCSS,NCSS-Tech,
+NCSS,NCSS-Tech
 SoilWeb,aqp
 SDA,soilDB
 SoilWeb,soilDB
 soilDB,fetchKSSL()
 soilDB,fetchNASIS()
-soilDB,fetchHenry(),
+soilDB,fetchHenry()
 SDA,SSURGO
 SDA,STATSGO
 fetchSDA(),soilDB
