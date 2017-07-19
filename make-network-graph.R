@@ -59,6 +59,7 @@ forceNetwork(Links = nd3$links, Nodes = nd3$nodes, Source = 'source', Target = '
 # another idea
 library(d3r)
 
-
-d3_igraph
+sink(file = 'example.json')
+d3_igraph(g)
+sink()
 
